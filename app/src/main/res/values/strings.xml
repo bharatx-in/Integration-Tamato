@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tamato</string>
+    <string name="login_message">Login to access Tamato</string>
+    <string name="sign_in">Sign In</string>
+    <string name="phone_number_verify_text">(will be verified after order is placed)</string>
+    <string name="price_format">Rs. %.2f</string>
+    <string name="your_order_summary">Your Order Summary</string>
+    <string name="total">Total</string>
+    <string name="pay_now">Pay Now</string>
+    <string name="order_complete_message">Your Order ID %s has been taken. A customer service representative will be calling you on your number %s to take the delivery address.
+        Please call +91 73376 08502 regarding any cancellation or query.
+    </string>
+    <string name="phone_number">Phone Number</string>
+</resources>
